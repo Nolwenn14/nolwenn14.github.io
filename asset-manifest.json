@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nolwenn14.github.io/static/css/main.eb10cea3.chunk.css",
+    "main.js": "/nolwenn14.github.io/static/js/main.d6902801.chunk.js",
+    "main.js.map": "/nolwenn14.github.io/static/js/main.d6902801.chunk.js.map",
+    "runtime-main.js": "/nolwenn14.github.io/static/js/runtime-main.cb44f34e.js",
+    "runtime-main.js.map": "/nolwenn14.github.io/static/js/runtime-main.cb44f34e.js.map",
+    "static/js/2.77b45520.chunk.js": "/nolwenn14.github.io/static/js/2.77b45520.chunk.js",
+    "static/js/2.77b45520.chunk.js.map": "/nolwenn14.github.io/static/js/2.77b45520.chunk.js.map",
+    "static/js/3.968cccf1.chunk.js": "/nolwenn14.github.io/static/js/3.968cccf1.chunk.js",
+    "static/js/3.968cccf1.chunk.js.map": "/nolwenn14.github.io/static/js/3.968cccf1.chunk.js.map",
+    "index.html": "/nolwenn14.github.io/index.html",
+    "static/css/main.eb10cea3.chunk.css.map": "/nolwenn14.github.io/static/css/main.eb10cea3.chunk.css.map",
+    "static/js/2.77b45520.chunk.js.LICENSE.txt": "/nolwenn14.github.io/static/js/2.77b45520.chunk.js.LICENSE.txt",
+    "static/media/CV_Nolwenn_SIBIRIL.4375fba8.pdf": "/nolwenn14.github.io/static/media/CV_Nolwenn_SIBIRIL.4375fba8.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb44f34e.js",
+    "static/js/2.77b45520.chunk.js",
+    "static/css/main.eb10cea3.chunk.css",
+    "static/js/main.d6902801.chunk.js"
+  ]
+}
